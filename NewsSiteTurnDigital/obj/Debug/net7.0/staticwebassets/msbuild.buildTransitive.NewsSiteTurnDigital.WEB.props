@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NewsSiteTurnDigital.WEB.props" />
+</Project>

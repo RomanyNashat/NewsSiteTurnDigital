@@ -1,0 +1,17 @@
+C:\TurnDigital\NewsSiteTurnDigital\Infrastructure\bin\Debug\net7.0\NewsSiteTurnDigital.Infrastructure.deps.json
+C:\TurnDigital\NewsSiteTurnDigital\Infrastructure\bin\Debug\net7.0\NewsSiteTurnDigital.Infrastructure.runtimeconfig.json
+C:\TurnDigital\NewsSiteTurnDigital\Infrastructure\bin\Debug\net7.0\NewsSiteTurnDigital.Infrastructure.dll
+C:\TurnDigital\NewsSiteTurnDigital\Infrastructure\bin\Debug\net7.0\NewsSiteTurnDigital.Infrastructure.pdb
+C:\TurnDigital\NewsSiteTurnDigital\Infrastructure\bin\Debug\net7.0\NewsSiteTurnDigital.Domain.dll
+C:\TurnDigital\NewsSiteTurnDigital\Infrastructure\bin\Debug\net7.0\NewsSiteTurnDigital.Domain.pdb
+C:\TurnDigital\NewsSiteTurnDigital\Infrastructure\obj\Debug\net7.0\NewsSiteTurnDigital.Infrastructure.csproj.AssemblyReference.cache
+C:\TurnDigital\NewsSiteTurnDigital\Infrastructure\obj\Debug\net7.0\NewsSiteTurnDigital.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\TurnDigital\NewsSiteTurnDigital\Infrastructure\obj\Debug\net7.0\NewsSiteTurnDigital.Infrastructure.AssemblyInfoInputs.cache
+C:\TurnDigital\NewsSiteTurnDigital\Infrastructure\obj\Debug\net7.0\NewsSiteTurnDigital.Infrastructure.AssemblyInfo.cs
+C:\TurnDigital\NewsSiteTurnDigital\Infrastructure\obj\Debug\net7.0\NewsSiteTurnDigital.Infrastructure.csproj.CoreCompileInputs.cache
+C:\TurnDigital\NewsSiteTurnDigital\Infrastructure\obj\Debug\net7.0\NewsSiteTurnDigital.Infrastructure.csproj.CopyComplete
+C:\TurnDigital\NewsSiteTurnDigital\Infrastructure\obj\Debug\net7.0\NewsSiteTurnDigital.Infrastructure.dll
+C:\TurnDigital\NewsSiteTurnDigital\Infrastructure\obj\Debug\net7.0\refint\NewsSiteTurnDigital.Infrastructure.dll
+C:\TurnDigital\NewsSiteTurnDigital\Infrastructure\obj\Debug\net7.0\NewsSiteTurnDigital.Infrastructure.pdb
+C:\TurnDigital\NewsSiteTurnDigital\Infrastructure\obj\Debug\net7.0\NewsSiteTurnDigital.Infrastructure.genruntimeconfig.cache
+C:\TurnDigital\NewsSiteTurnDigital\Infrastructure\obj\Debug\net7.0\ref\NewsSiteTurnDigital.Infrastructure.dll

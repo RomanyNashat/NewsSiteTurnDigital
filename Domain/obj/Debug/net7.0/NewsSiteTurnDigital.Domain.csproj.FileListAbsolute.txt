@@ -1,0 +1,12 @@
+C:\TurnDigital\NewsSiteTurnDigital\Domain\bin\Debug\net7.0\NewsSiteTurnDigital.Domain.deps.json
+C:\TurnDigital\NewsSiteTurnDigital\Domain\bin\Debug\net7.0\NewsSiteTurnDigital.Domain.dll
+C:\TurnDigital\NewsSiteTurnDigital\Domain\bin\Debug\net7.0\NewsSiteTurnDigital.Domain.pdb
+C:\TurnDigital\NewsSiteTurnDigital\Domain\obj\Debug\net7.0\NewsSiteTurnDigital.Domain.csproj.AssemblyReference.cache
+C:\TurnDigital\NewsSiteTurnDigital\Domain\obj\Debug\net7.0\NewsSiteTurnDigital.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\TurnDigital\NewsSiteTurnDigital\Domain\obj\Debug\net7.0\NewsSiteTurnDigital.Domain.AssemblyInfoInputs.cache
+C:\TurnDigital\NewsSiteTurnDigital\Domain\obj\Debug\net7.0\NewsSiteTurnDigital.Domain.AssemblyInfo.cs
+C:\TurnDigital\NewsSiteTurnDigital\Domain\obj\Debug\net7.0\NewsSiteTurnDigital.Domain.csproj.CoreCompileInputs.cache
+C:\TurnDigital\NewsSiteTurnDigital\Domain\obj\Debug\net7.0\NewsSiteTurnDigital.Domain.dll
+C:\TurnDigital\NewsSiteTurnDigital\Domain\obj\Debug\net7.0\refint\NewsSiteTurnDigital.Domain.dll
+C:\TurnDigital\NewsSiteTurnDigital\Domain\obj\Debug\net7.0\NewsSiteTurnDigital.Domain.pdb
+C:\TurnDigital\NewsSiteTurnDigital\Domain\obj\Debug\net7.0\ref\NewsSiteTurnDigital.Domain.dll
