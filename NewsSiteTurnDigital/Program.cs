@@ -11,7 +11,7 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDatabase(builder.Configuration).AddRepositories().AddServices();
 builder.Services.AddHttpContextAccessor();
-builder.Services.AddControllers(x => x.Filters.Add<CustomAuthorizeAttribute>());
+//builder.Services.AddControllers(x => x.Filters.Add<CustomAuthorizeAttribute>());
 
 builder.Services.AddAuthentication(
 CookieAuthenticationDefaults.AuthenticationScheme
