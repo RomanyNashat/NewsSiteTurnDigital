@@ -22,15 +22,15 @@ namespace NewsSiteTurnDigital.Infrastructure.Repositories.News
         }
         public async Task<List<NewsItem>> GetAllNewsItems()
         {
-            return await DbSet.ToListAsync();
+            return await DbSet.Where(x => x.IsDeleted != true).ToListAsync();
         }
         public async Task<IPagedList<NewsItem>> GetAllNewsItemsPaged(int page, int pageSize)
         {
-            return await DbSet.ToPagedListAsync(page, pageSize);
+            return await DbSet.Where(x => x.IsDeleted != true).ToPagedListAsync(page, pageSize);
         }
         public async Task<NewsItem> GetNewsItemById(int Id)
         {
-            return await DbSet.Where(s => s.Id == Id).FirstOrDefaultAsync();
+            return await DbSet.Where(s => s.Id == Id & s.IsDeleted != true).FirstOrDefaultAsync();
         }
         public NewsItem AddNewsItem(NewsItem newsItem)
         {

@@ -25,12 +25,12 @@ namespace NewsSiteTurnDigital.Infrastructure.Repositories.Categories
 
         public async Task<List<NewsCategory>> GetAllNewsCategory()
         {
-            return await this.DbSet.ToListAsync();
+            return await this.DbSet.Where(x => x.IsDeleted != true).ToListAsync();
         }
 
         public async Task<NewsCategory> GetById(int id)
         {
-            return await this.DbSet.Where(c => c.Id == id).FirstOrDefaultAsync();
+            return await this.DbSet.Where(c => c.Id == id & c.IsDeleted != true).FirstOrDefaultAsync();
         }
     }
 }
